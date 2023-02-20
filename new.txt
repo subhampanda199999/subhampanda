@@ -1,0 +1,98 @@
+/  var firstName = "subham";
+//  console.log(firstName);
+  
+//  let firstname = "bapun";
+//  console.log(firstname);
+ 
+// // const pi=3.14 ;
+// // console.log(pi);
+
+
+// // pi=3.15;
+// // console.log(pi);
+
+
+// let firstName = "subham";
+// console.log(firstName);
+// console.log(firstName[2]);
+// console.log(firstName.length);
+// console.log(firstName[firstName.length-2]);
+
+
+// var 1value = 2;//invalid syntax
+// console.log(1value);
+
+// var value1 = 5;
+// console.log(value1);
+
+// var first_name = "subham";
+// console.log(first_name);
+
+// var _firstname = "subham";
+// console.log(_firstname);
+
+// var _first_name ="bapun";
+// console.log(_first_name);
+
+// var $firstname ="hari";//doubt
+// console.log($firstname);
+
+// let firstName = "harish";
+// // let firstName ="rama";//we can not define let keyword once declare
+// console.log(firstName);
+
+// let firstName ="rama";
+// firstName = "dama";
+// console.log(firstName);
+// console.log(firstName);
+
+// let firstName = "    anurag"  ;
+// console.log(firstName.length);
+// firstName= firstName.trim();
+// console.log(firstName);
+// console.log(firstName.length);
+  
+
+// let firstName ="subham";
+// console.log(firstName);
+// let upperCase = firstName.toUpperCase();
+// console.log("the upper case is :" + upperCase);//concatination
+// lowerCase = upperCase.toLowerCase();
+// console.log("the lower case is:" + lowerCase);//conactination
+
+// let firstName ="subham";
+// console.log(firstName);
+// let slicestring= firstName.slice(0,2);
+// console.log("the slice string is:"+slicestring);
+
+
+// let age =25;
+// let firstName="subham";
+// console.log(typeof age);
+// console.log(typeof firstName);
+// let a = (typeof age);
+// console.log("the type of variable is"+ a);
+
+
+//CONVERT STRING TO NUMBER
+// let age =+"22.4";
+// console.log(typeof age);//by using the symbol of + it will covert any string into number
+
+//conver number to string
+// let age = 12;
+// let firstName ="subham";
+// console.log(typeof age);
+// console.log(typeof firstName);
+// age =String(age);
+// console.log("type of age is :"+ typeof age);
+// firstName= Number(firstName);
+// console.log("type of firstName is :"+ typeof firstName);
+
+
+
+// let age = 18;
+// let firstName = "Bhanu";
+// age = String(age);
+// firstName = Number(firstName);
+// console.log("Type of age is " + typeof age);
+// console.log("type of first name is " + typeof firstName);
