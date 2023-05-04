@@ -1,0 +1,17 @@
+.box{
+    height: 500px;
+    width: 500px;
+    background: red;
+    /* transition-property: background;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out; */
+    /* transition: background 5s ease-in-out, 
+                width 5s ease-in-out,
+                height 5s ease-in; */
+        transition: all 3s ease-in-out;         
+}
+.box:hover{
+    background: blue;
+    width: 600px;
+    height: 400px;
+}

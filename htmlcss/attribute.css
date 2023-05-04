@@ -1,0 +1,9 @@
+ input[type ="text"]{
+    color:rgb(20,200, 255);
+}
+ a[href ="http://google.co.in"]{
+    color: rgb(22, 142, 62);
+}
+/* a[href *="google"]{
+    color: rgb(255, 0, 115);
+} */

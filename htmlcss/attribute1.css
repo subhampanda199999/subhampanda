@@ -1,0 +1,26 @@
+
+
+
+.container{
+    width: 400px;
+    margin: 0px auto;
+    
+}
+
+h1{
+    
+    color: rgb(23, 128, 72);
+    padding: 20px 0px;
+    text-align: center;
+    background-color:cornsilk;
+}
+section.aboutme, section.aboutsubham{
+    border: 2px solid#666;
+    padding: 10px;
+}
+.aboutme{
+    margin-bottom:40px ;
+}
+h2{
+    text-transform: uppercase;
+}

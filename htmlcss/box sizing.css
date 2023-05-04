@@ -1,0 +1,12 @@
+hr{
+    width: 500px;
+    padding-left: 0px ;
+    margin-left: 0 ;
+    border: 1px dashed black;
+}
+section{
+    box-sizing: border-box;
+    width: 500px;
+    padding: 50px;
+    border: 10px solid red;
+}

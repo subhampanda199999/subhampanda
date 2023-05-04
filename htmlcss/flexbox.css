@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.flex{
+    border: 2px solid black;
+     display: flex;   
+     max-width: 1200px;
+}
+   
+.box{
+    flex-basis: 600px; 
+   
+}
+.box1{
+    background-color: lightblue;
+    flex-shrink: 1;
+}
+.box2{
+    background-color: lightcoral;
+    flex-shrink: 2;
+}
+.box3{
+    background-color: lightgray;
+    flex-shrink: 3;
+}
+.box4{
+    background-color: lightgreen;
+}
+.box5{
+    background-color: lightseagreen;
+}

@@ -1,0 +1,22 @@
+/* body :not(p){
+    color: brown;
+    background-color: beige;
+} */
+/* div:empty{
+    border: 5px solid red;
+    background: gray;
+    height: 100px;
+    width: 100px;
+} */
+/* :root{
+    color: black;
+    background-color: brown;
+} */
+/* html{
+    color: aquamarine;
+    background-color: blueviolet;
+} */
+/* body{
+    color: bisque;
+    background-color: black;
+} */

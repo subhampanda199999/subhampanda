@@ -1,0 +1,9 @@
+h1{
+    font-size: 2em;
+    border: 2em solid black;
+    padding: 3em;
+}
+.box1{
+    font-size: 20px;
+}
+/* according to the font-size padding size also change */

@@ -1,0 +1,28 @@
+a{
+    color: #444;
+    text-decoration: none;
+}
+h1{
+    border-bottom: 1px solid black;
+}
+body{
+    padding: 0px 50px;
+}
+
+
+nav{
+    background-color: #cecece;
+}
+nav ul{
+    padding: 0px;
+    text-align: center;
+}
+nav li{
+    display: inline-block; 
+    list-style: none;
+    border-bottom: 1px solid black;
+    padding: 15px 20px;
+    font-size: 20px;
+    text-transform: uppercase; 
+}
+section
